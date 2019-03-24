@@ -9,7 +9,7 @@ import Noticies from '../components/thumbprint-www/noticies';
 import Hero from '../components/thumbprint-www/hero';
 import openGraphImage from './og-image.png';
 
-const description = 'Assets for building high-quality, consistent user experiences at Thumbtack.';
+const description = 'Lưu trữ các nội dung quan trọng về nghề của Ngothuy.com và cách liên hệ làm việc cùng chúng tôi';
 
 const IndexPage = ({ location, data }) => (
     <Container location={location}>
