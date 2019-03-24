@@ -19,9 +19,9 @@ const Featured = () => (
                         <img src={aboutSvg} className="db w4 w-auto" alt="" />
                     </div>
                     <div className="">
-                        <div className="tp-title-5 mb1">About</div>
+                        <div className="tp-title-5 mb1">Giới thiệu chung</div>
                         <div className="black-300">
-                            The principles and team members of Thumbprint.
+                            Một cách nhìn mới về Studio Ngô Thủy.
                         </div>
                     </div>
                 </div>
