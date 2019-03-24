@@ -70,13 +70,13 @@ class Container extends React.Component {
             <div className="flex h-100">
                 <ActiveSectionContext.Provider value={activeSection}>
                     <Helmet>
-                        <title>Thumbprint</title>
+                        <title>Studio Ngothuy.com Database</title>
 
                         <meta name="twitter:card" content="summary" />
-                        <meta name="twitter:site" content="@thumbtackdesign" />
-                        <meta name="twitter:title" content="Thumbprint" />
+                        <meta name="twitter:site" content="@ngothuystudio" />
+                        <meta name="twitter:title" content="Studio Ngothuy.com Database" />
 
-                        <meta property="og:title" content="Thumbprint" />
+                        <meta property="og:title" content="Studio Ngothuy.com Database" />
 
                         <style type="text/css">
                             {`
@@ -136,7 +136,7 @@ class Container extends React.Component {
                                             <Input
                                                 type="search"
                                                 size="small"
-                                                placeholder="Search"
+                                                placeholder="Tìm kiếm"
                                                 onChange={this.onSearchChange}
                                                 value={searchValue}
                                                 id={id}
