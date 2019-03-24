@@ -3,9 +3,9 @@ const sassImporter = require('node-sass-tilde-importer');
 
 module.exports = {
     siteMetadata: {
-        title: 'Thumbprint',
-        description: 'Thumbprint is the design system of Thumbtack.',
-        siteUrl: 'https://thumbprint.design',
+        title: 'Ngothuy.com | Ngô thủy Studio',
+        description: 'Ngô thủy Studio là một nhánh nhỏ, chuyên về công việc phát triển và điều tiết công việc ecommerce online.',
+        siteUrl: 'https://studio.ngothuy.com',
     },
     plugins: [
         'gatsby-plugin-react-helmet',
