@@ -241,7 +241,7 @@ class Container extends React.Component {
                                         return (
                                             <SideNav pathName={pathname} hash={hash}>
                                                 <SideNavSection
-                                                    title="Overview"
+                                                    title="Tổng quan Ngothuy.com"
                                                     isActive={activeSection === 'Overview'}
                                                 >
                                                     <SideNavSectionGroup>
@@ -251,7 +251,7 @@ class Container extends React.Component {
                                                                 pathname === '/overview/about/'
                                                             }
                                                         >
-                                                            About
+                                                            Giới thiệu chung
                                                         </SideNavSectionGroupLink>
                                                         <SideNavSectionGroupLink
                                                             to="/overview/accessibility/"
