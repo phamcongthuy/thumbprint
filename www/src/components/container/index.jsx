@@ -481,7 +481,7 @@ Container.propTypes = {
         'Tokens',
         'Icons',
         'Updates',
-        'Help',
+        'Liên hệ',
     ]),
 };
 
