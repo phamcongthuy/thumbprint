@@ -70,13 +70,13 @@ class Container extends React.Component {
             <div className="flex h-100">
                 <ActiveSectionContext.Provider value={activeSection}>
                     <Helmet>
-                        <title>Studio Ngothuy.com Database</title>
+                        <title>Nuoitho.com Dữ liệu nghề nuôi thỏ</title>
 
                         <meta name="twitter:card" content="summary" />
                         <meta name="twitter:site" content="@ngothuystudio" />
-                        <meta name="twitter:title" content="Studio Ngothuy.com Database" />
+                        <meta name="twitter:title" content="Nuoitho.com Dữ liệu nghề nuôi thỏ" />
 
-                        <meta property="og:title" content="Studio Ngothuy.com Database" />
+                        <meta property="og:title" content="Nuoitho.com Dữ liệu nghề nuôi thỏ" />
 
                         <style type="text/css">
                             {`
@@ -126,7 +126,7 @@ class Container extends React.Component {
                                         <img
                                             src={thumbprintLogo}
                                             className="db"
-                                            alt="Ngothuy.com Studio Database logo"
+                                            alt="Nuoitho.com Dữ liệu nghề nuôi thỏ"
                                         />
                                     </Link>
 
@@ -240,7 +240,7 @@ class Container extends React.Component {
                                         return (
                                             <SideNav pathName={pathname} hash={hash}>
                                                 <SideNavSection
-                                                    title="Tổng quan Ngothuy.com"
+                                                    title="Tổng quan nuôi thỏ"
                                                     isActive={activeSection === 'Overview'}
                                                 >
                                                     <SideNavSectionGroup>
