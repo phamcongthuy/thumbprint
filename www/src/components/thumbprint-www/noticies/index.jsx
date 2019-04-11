@@ -20,14 +20,13 @@ const Notices = () => (
         <div>
             <div className={styles.readingWidth}>
                 <Title size={4} className="mb2">
-                    We’re hiring!
+                    ecommerce thương mại thịt thỏ tại Nuôi thỏ.com và hợp tác
                 </Title>
                 <Text className="black-300 mb4">
-                    We’re solving the industry’s most interesting problems with its brightest
-                    talent, at a scale where everyone still feels like family.
+                    Chúng tôi giải quyết bài toán thịt thỏ bằng cách trực tiếp tham gia vào ngành chăn nuôi và cùng hợp tác.
                 </Text>
-                <ThemedLink theme="primary" to="https://thumbtack.com/careers/">
-                    View open listings
+                <ThemedLink theme="primary" to="https://nuoitho.com/careers/">
+                    Xem danh mục cửa hàng ecommerce trực tuyến
                 </ThemedLink>
             </div>
         </div>
