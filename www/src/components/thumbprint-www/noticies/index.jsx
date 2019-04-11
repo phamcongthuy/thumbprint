@@ -7,14 +7,13 @@ const Notices = () => (
         <div className="mb5 bb b-gray-300 pb5">
             <div className={styles.readingWidth}>
                 <Title size={4} className="mb2">
-                    Looking to contribute?
+                    bạn muốn đóng góp?
                 </Title>
                 <Text className="black-300 mb4">
-                    A design system only works when there’s input from a wider team. We encourage
-                    contributions both big and small from designers and developers.
+                    Nuôi thỏ (nuoitho.com) khẳng định các ý kiến đóng góp của bạn được trân trọng và những ý kiến của bạn nâng tầm vai trò chăn nuôi thỏ tại Việt Nam nói chung, hãy đóng góp cho chúng tôi.
                 </Text>
                 <ThemedLink theme="primary" to="/overview/contributing/">
-                    Contributing page
+                    Đến trang đóng góp nội dung
                 </ThemedLink>
             </div>
         </div>
