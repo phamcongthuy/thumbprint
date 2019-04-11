@@ -21,7 +21,7 @@ const Featured = () => (
                     <div className="">
                         <div className="tp-title-5 mb1">Giới thiệu chung</div>
                         <div className="black-300">
-                            Một cách nhìn mới về Studio Ngô Thủy.
+                            Một cách nhìn mới về nuôi thỏ.
                         </div>
                     </div>
                 </div>
