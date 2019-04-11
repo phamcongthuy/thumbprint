@@ -8,8 +8,8 @@ import { ActiveSectionContext } from '../container';
 const PageHeader = ({ metaTitle, description, pageTitle }) => (
     <div className="mb5">
         <Helmet>
-            {metaTitle && <title>{metaTitle} / Ngothuy.com Studio Database</title>}
-            <meta name="twitter:title" content={`${metaTitle} / Ngothuy.com Studio Database`} />
+            {metaTitle && <title>{metaTitle} / Nuoitho.com Dữ liệu nghề nuôi thỏ</title>}
+            <meta name="twitter:title" content={`${metaTitle} / Nuoitho.com Dữ liệu nghề nuôi thỏ`} />
             {description && <meta name="twitter:description" content={description} />}
             {description && <meta name="description" content={description} />}
             {description && <meta property="og:description" content={description} />}
