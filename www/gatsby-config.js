@@ -3,9 +3,9 @@ const sassImporter = require('node-sass-tilde-importer');
 
 module.exports = {
     siteMetadata: {
-        title: 'Ngothuy.com | Ngô thủy Studio',
-        description: 'Ngô thủy Studio là một nhánh nhỏ, chuyên về công việc phát triển và điều tiết công việc ecommerce online.',
-        siteUrl: 'https://studio.ngothuy.com',
+        title: 'Yenlanh.com | Tiếp Studio',
+        description: 'Dữ liệu nghề nuôi thỏ của Tiếp Studio được tổng hợp và biên dịch bởi Phạm Xuân Tiếp.',
+        siteUrl: 'https://nuoitho.com',
     },
     plugins: [
         'gatsby-plugin-react-helmet',
