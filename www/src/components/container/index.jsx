@@ -474,7 +474,7 @@ Container.propTypes = {
     children: PropTypes.node,
     location: PropTypes.shape({}).isRequired,
     activeSection: PropTypes.oneOf([
-        'Tổng quan Ngothuy.com',
+        'Tổng quan nuôi thỏ',
         'Guidelines',
         'Components',
         'Atomic',

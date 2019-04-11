@@ -3,7 +3,7 @@ import styles from './index.module.scss';
 import heroImg from './heroImg.svg';
 import thumbprintLogo from '../../container/thumbprintLogo.svg';
 
-const description = 'Trang lưu trữ nội dung phát triển mảng trại nuôi thỏ, và nội dung phát triển Node.js của Ngothuy.com.';
+const description = 'Trang lưu trữ nội dung phát triển mảng trại nuôi thỏ, Nuoitho.com Dữ liệu nghề nuôi thỏ.';
 
 const Hero = () => (
     <div className={styles.hero}>
@@ -11,8 +11,8 @@ const Hero = () => (
             <img src={heroImg} className={styles.image} alt="" />
         </div>
         <div className={styles.textBlock}>
-            <img src={thumbprintLogo} className={styles.logo} alt="Ngothuy.com Studio Database" />
-            <div className={styles.subhead}>Ngothuy.com Studio Database</div>
+            <img src={thumbprintLogo} className={styles.logo} alt="Nuoitho.com Dữ liệu nghề nuôi thỏ" />
+            <div className={styles.subhead}>Nuoitho.com Dữ liệu nghề nuôi thỏ</div>
             <div className={styles.description}>{description}</div>
         </div>
     </div>
