@@ -219,7 +219,7 @@ const getPlatformByPathname = pathname => {
 const getSectionByPathname = pathname => {
     // This needs to be updated if a new section is added or a section is renamed.
     const mappings = {
-        overview: 'Overview',
+        overview: 'Tổng quan nghề',
         guide: 'Guidelines',
         components: 'Components',
         atomic: 'Atomic',
